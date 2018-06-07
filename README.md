@@ -15,4 +15,4 @@ armazenado em uma **variável multiply2** e **multiplicado por 2**.
 10. Se o resultado da soma total **dividido por 10 der resto 0**, mostra na tela a mensagem *'Seu cartão é válido'*, se não, mostra na tela a mensagem *'Seu cartão é inválido'* e encerra o programa.
 
 ## Fluxograma
-(CreditCard.jpeg)
+(https://github.com/gabyfutemma/CreditCard/blob/master/CreditCard.jpeg)
