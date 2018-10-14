@@ -2,6 +2,7 @@
 
 ## Motivo
 Este é o produto final do Sprint 1 do bootcamp Laboratoria.
+
 O desafio era criar um validador de cartão de crédito que verifica se o número do cartão inserido no prompt é válido usando o algoritmo de Luhn e também descrever todo o processo que se encontra logo abaixo.
 
 ## Descrição
